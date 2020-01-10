@@ -19,7 +19,7 @@
 
 category: common
 depends:
-- gnuradio
+- gnuradio37
 - uhd
 - faac
 - faad
