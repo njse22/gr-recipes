@@ -19,8 +19,8 @@
 
 category: application
 depends:
-- gnuradio
-- gr-osmosdr
+- gnuradio37
+- gr-osmosdr37
 - pulseaudio
 - qt4
 - qt5
