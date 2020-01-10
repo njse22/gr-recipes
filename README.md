@@ -10,3 +10,5 @@ To find more recipes from the GNU Radio universe, see the gr-etcetera repository
 
 - https://github.com/gnuradio/gr-etcetera
 
+this is not the official repository of **gr-recipes** and the same has been modify for personal works 
+
