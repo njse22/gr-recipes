@@ -19,7 +19,7 @@
 
 category: common
 depends:
-- gnuradio
+- gnuradio37
 - gr-compat
 - libbtbb
 description: Bluetooth receiver implementation for GNU Radio
