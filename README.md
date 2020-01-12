@@ -24,4 +24,7 @@ in this repository has been added following recipes:
 - gr-compat37.lwr
 - gr-osmosdr37.lwr
 - gr-paint37.lwr
-
+ 
+ and edited: 
+ 
+ - gr-drm
