@@ -23,7 +23,7 @@ depends:
 - uhd
 - faac
 - faad
-- gr-compat
+- gr-compat37
 description: DRM transmitter using GNU Radio
 gitbranch: master
 inherit: cmake
